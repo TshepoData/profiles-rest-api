@@ -1,2 +1,3 @@
-num
-print("Tshepo the Real Davil")
+for i in range(0,10):
+    print(i)
+    print("Tshepo the Real Davil")
